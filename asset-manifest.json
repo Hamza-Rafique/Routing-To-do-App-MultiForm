@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Routing-To-do-App-MultiForm/static/css/main.3272ed97.chunk.css",
+    "main.js": "/Routing-To-do-App-MultiForm/static/js/main.ff536f76.chunk.js",
+    "main.js.map": "/Routing-To-do-App-MultiForm/static/js/main.ff536f76.chunk.js.map",
+    "runtime-main.js": "/Routing-To-do-App-MultiForm/static/js/runtime-main.005cad2a.js",
+    "runtime-main.js.map": "/Routing-To-do-App-MultiForm/static/js/runtime-main.005cad2a.js.map",
+    "static/js/2.8038c617.chunk.js": "/Routing-To-do-App-MultiForm/static/js/2.8038c617.chunk.js",
+    "static/js/2.8038c617.chunk.js.map": "/Routing-To-do-App-MultiForm/static/js/2.8038c617.chunk.js.map",
+    "index.html": "/Routing-To-do-App-MultiForm/index.html",
+    "precache-manifest.a593c3127ae6b18bd6ae2c42552df74d.js": "/Routing-To-do-App-MultiForm/precache-manifest.a593c3127ae6b18bd6ae2c42552df74d.js",
+    "service-worker.js": "/Routing-To-do-App-MultiForm/service-worker.js",
+    "static/css/main.3272ed97.chunk.css.map": "/Routing-To-do-App-MultiForm/static/css/main.3272ed97.chunk.css.map",
+    "static/js/2.8038c617.chunk.js.LICENSE.txt": "/Routing-To-do-App-MultiForm/static/js/2.8038c617.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.005cad2a.js",
+    "static/js/2.8038c617.chunk.js",
+    "static/css/main.3272ed97.chunk.css",
+    "static/js/main.ff536f76.chunk.js"
+  ]
+}
